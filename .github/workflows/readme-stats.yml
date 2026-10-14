@@ -26,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=a78bfa&locale=es
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=a78bfa&locale=en
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github&bg_color=ffffff&title_color=1a7f37&text_color=24292f&icon_color=6f42c1&locale=es
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github&bg_color=ffffff&title_color=1a7f37&text_color=24292f&icon_color=6f42c1&locale=en
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
