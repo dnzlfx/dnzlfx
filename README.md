@@ -63,13 +63,13 @@ Systems, data & AI
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
-  <img width="49%" alt="Christian's GitHub stats" src="./profile/stats-light.svg" />
+  <img width="49%" alt="Christian Denzel's GitHub stats" src="./profile/stats-light.svg" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dnzlfx&amp;hide_border=true&amp;background=0D1117&amp;ring=39D353&amp;fire=A78BFA&amp;currStreakNum=F0F6FC&amp;sideNums=F0F6FC&amp;currStreakLabel=39D353&amp;sideLabels=8B949E&amp;dates=8B949E&amp;locale=en" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dnzlfx&amp;hide_border=true&amp;background=FFFFFF&amp;ring=1A7F37&amp;fire=6F42C1&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;currStreakLabel=1A7F37&amp;sideLabels=57606A&amp;dates=57606A&amp;locale=en" />
-  <img width="49%" alt="Christian's GitHub contribution streak" src="https://streak-stats.demolab.com?user=dnzlfx&amp;hide_border=true&amp;ring=1A7F37&amp;fire=6F42C1&amp;locale=en" />
+  <img width="49%" alt="Christian Denzel's GitHub contribution streak" src="https://streak-stats.demolab.com?user=dnzlfx&amp;hide_border=true&amp;ring=1A7F37&amp;fire=6F42C1&amp;locale=en" />
 </picture>
 
 </div>
