@@ -130,6 +130,16 @@ Sitio web estático (HTML, CSS y JavaScript) con varias páginas — catálogo, 
 </td>
 <td width="50%" valign="top">
 
+### 🤝 [Impact Forge — AppealForge](https://github.com/dnzlfx/Impact_Forge-AppealForge)
+
+Sistema clínico de apelaciones asistido por IA: revierte denegaciones médicas de seguros mediante recuperación de guías clínicas con RAG, redacción verificada y auditoría independiente. **Trabajo en equipo** (Impact Forge Hackathon 2026).
+
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+
+[**Ver el proyecto →**](https://github.com/dnzlfx/Impact_Forge-AppealForge)
+
 </td>
 </tr>
 </table>
